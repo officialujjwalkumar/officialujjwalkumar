@@ -1,5 +1,5 @@
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/itsayu?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/itsayu?style=social"> &nbsp;&nbsp;
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/officialujjwalkumar?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/itsayu?style=social"> &nbsp;&nbsp;
 
 
 <!-- -------------------------------BG Template---------------------------- -->
@@ -13,7 +13,7 @@
 <h1 align="center">Hi there, I'm Ujjwal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 
-<!-- **Itsayu/itsayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **officialujjwalkumar/officialujjwalkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
  --><img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="right" width="380" height="208"/>
  
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: You won't read it...!
 
 
-[![@itsayu's Holopin board](https://holopin.me/itsayu)](https://holopin.io/@itsayu)
+[![@officialujjwalkumar's Holopin board](https://holopin.me/officialujjwalkumar)](https://holopin.io/@itsayu)
 
 
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
  <!-- Typing Widget -->
 <img width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Front-End+Web+Developer;Computer+Science+Student;Tech+Geek;Content+Writer&font=sans-serif&center=true&size=12">
  
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsayu&theme=dark&hide_border=true" width=700px>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=officialujjwalkumar&theme=dark&hide_border=true" width=700px>
 
 <!-- [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=itsayu&column=8&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/itsayu) -->
  
@@ -106,11 +106,11 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsayu&theme=monokai">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=officialujjwalkumar&theme=monokai">
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsayu&theme=monokai">&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsayu&theme=monokai">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=officialujjwalkumar&theme=monokai">&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=officialujjwalkumar&theme=monokai">
 </p>
 
 
@@ -121,7 +121,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://twitter.com/its_akt_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_akt_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ayush-kumar-432801206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-kumar" height="28" width="40" /></a>
-<a href="https://discord.gg/Itsayu#5915" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="ayush-kumar" height="35" width="45" /></a>
+<a href="https://discord.gg/officialujjwalkumar#5915" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="ayush-kumar" height="35" width="45" /></a>
 <a href="https://instagram.com/its_a.k.t?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_a.k.t" height="28" width="38" /></a>
 <a href="mailto:ayushkr9976@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="Ayush Kumar Tiwari" height="30" width="40" /></a>
 <a href="https://t.me/its_akt" target="blank"><img align="center" src="https://www.svgrepo.com/show/343522/telegram-communication-chat-interaction-network-connection.svg" alt=" " height="30" width="40" /></a>
@@ -134,13 +134,13 @@ Here are some ideas to get you started:
 <!-- Github contribution grid snake -->
 <h1 align="center">Contributions</h1>
 <p align="center">
-<img alt="Snake GIF" src="https://github.com/itsayu/itsayu/blob/output/github-contribution-grid-snake.svg">
+<img alt="Snake GIF" src="https://github.com/officialujjwalkumar/officialujjwalkumar/blob/output/github-contribution-grid-snake.svg">
 </p>
 <br>
 
 
 <!-- outro -->
-<p align="center"> <img src=https://komarev.com/ghpvc/?username=itsayu alt=itsayu/> </p>
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=officialujjwalkumar alt=officialujjwalkumar/> </p>
 <p align="center"> <a href="https://twitter.com/its_aKT_" target="blank"><img src="https://img.shields.io/twitter/follow/its_akt_?logo=twitter&style=for-the-badge" alt="its_akt_" /></a> 
 </p>
 
