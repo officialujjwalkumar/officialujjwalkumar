@@ -141,7 +141,6 @@ Here are some ideas to get you started:
 
 <!-- outro -->
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=officialujjwalkumar alt=officialujjwalkumar/> </p>
-<p align="center"> <a href="https://twitter.com/its_aKT_" target="blank"><img src="https://img.shields.io/twitter/follow/its_akt_?logo=twitter&style=for-the-badge" alt="its_akt_" /></a> 
 </p>
 
 
